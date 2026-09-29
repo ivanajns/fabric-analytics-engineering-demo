@@ -25,7 +25,7 @@ More importantly, the architecture provides a foundation that can scale with the
 ## Repository structure
 
 ```text
-fabric-analytics-engineering-solution/
+fabric-analytics-engineering-demo/
 ├── README.md
 ├── data/
 │   ├── raw/
