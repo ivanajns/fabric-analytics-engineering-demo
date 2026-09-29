@@ -1,4 +1,4 @@
-# Fabric Analytics Engineering Solution
+# Fabric Analytics Engineering Demo
 
 An end-to-end analytics engineering project built with Microsoft Fabric, PySpark, Delta Lake, Medallion architecture, star schema dimensional modeling, and a Power BI dashboard with semantic modeling and quality visualizations.
 
