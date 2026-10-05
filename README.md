@@ -17,9 +17,9 @@ The Gold tables are exported to GitHub as CSV files and loaded into Power BI usi
 
 ## Business Impact
 
-From a business perspective, the value is creating a trusted foundation for decision-making. Instead of leadership relying on multiple reports, manually reconciled numbers, or different interpretations of the same metric, the solution creates a consistent view of revenue and performance. This enables stakeholders to analyze trends and performance across customers, products, and time while reducing time spent validating the underlying numbers.
+From a business perspective, the value is creating a trusted foundation for decision-making. Instead of leadership relying on multiple reports, manually reconciled numbers, or different calculations of the same metric, the solution creates a consistent view of revenue and performance and reduces time spent validating the underlying numbers.
 
-More importantly, the architecture provides a foundation that can scale with the business. As reporting needs, customers, products, and data volumes grow, the organization has a repeatable approach for bringing data together, applying consistent business logic, and delivering reliable insights. The result is less time spent managing and reconciling data and more time spent using it to understand performance and drive business decisions.
+More importantly, the architecture provides a foundation that can scale with the business. As reporting needs and data volumes grow, the organization has a repeatable approach for bringing data together, applying consistent business logic, and delivering reliable insights on performance to drive business decisions.
 
 
 ## Repository structure
